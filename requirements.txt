@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+nltk
+textblob
+google-api-python-client
